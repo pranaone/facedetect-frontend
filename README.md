@@ -1,7 +1,6 @@
 # FaceDetect (Frontend)
 
-A simple application that detects faces in a given image using Clarifai API.
-Written in JavaScript using React and Node.js Frameworks.
+A simple web application that detects faces in a given image using Clarifai API, written in JavaScript using React and Node.js Frameworks.
 
 Install Instructions
 ====================
